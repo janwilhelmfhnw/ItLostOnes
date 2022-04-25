@@ -1,4 +1,4 @@
-package main.java.prcoess.LostOnes;
+package process.LostOnes;
 
 public class LostOnesApplication {
 
