@@ -1,8 +1,8 @@
-package com.company;
+package com.LostOnes;
 
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("TEST");
+	// write your code here
     }
 }
