@@ -12,7 +12,7 @@ public class LostOnesApplication {
 
 
         try {
-            Connection connection = DriverManager.getConnection("jdbc:mysql://localhohst:3306/jdbc", "root", "xxx");
+            Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/jdbc", "root", "LostOnesPW");
 
             Statement statement = connection.createStatement();
 
