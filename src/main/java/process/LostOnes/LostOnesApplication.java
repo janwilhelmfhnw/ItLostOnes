@@ -29,12 +29,13 @@ public class LostOnesApplication {
         }
 
 // Method: id extractor from input values   - id is defined as. 1 = 1 pal bis 30km, 2 = 2 pal bis 30km..13 =1 pal bis 60km etc. PG
-public static void idExtract(int pal, double distance) {
+public static void idExtract;
+        (int pal, double distance) {
             double d;
             d = distance;
 
             distance / 30 = remainder;
-            distance -=
+            distance -=;
 
         }
     }
